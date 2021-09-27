@@ -6,6 +6,8 @@ First of many shitty games to come
 # Objective
 Get to the other pink square without bumping into anything.
 
+There are 2 paths to get to the finish square. One of them is shorter but harder while the other one is longer but easier
+
 # Controls
 WASD for movement
 
