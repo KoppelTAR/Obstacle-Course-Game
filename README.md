@@ -8,4 +8,5 @@ Get to the other pink square without bumping into anything.
 
 # Controls
 WASD for movement
+
 Escape to close app
